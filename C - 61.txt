@@ -1,0 +1,1 @@
+!important; This code line means that these css properties will be reflected to all anchor tags inside id(#)writings, No matter if any other css properties are applied to anchor tag in the file.

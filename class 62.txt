@@ -1,0 +1,2 @@
+Bootstrap is a framework of precoded classes which we can use for designing and building a responsive website like adding design effects. Responsive means that the look and feel of the website does not distort from device to device. It looks proper in all the devices - from big screen laptops to small screen phones.
+Bootstrap has predefined CSS properties and Javascript function that we can use by just calling them inside the class of an element.
